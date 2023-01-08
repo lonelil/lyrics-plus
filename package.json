@@ -1,0 +1,13 @@
+{
+  "name": "lyrics-plus",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "lonelil <51315646+lonelil@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
